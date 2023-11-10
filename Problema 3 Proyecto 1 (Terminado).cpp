@@ -1,6 +1,6 @@
 #include <iostream>
-
-using namespace std;
+Jesus
+using namespace std;Jesus
 
 int main()
 {
@@ -14,8 +14,8 @@ cout<<"Ingrese el monto que sea Retirar:";cin>>amount;
 
 
 
-if(amount<=99&&amount>89){
-    cout<<"Billetes de 50$:1"<<endl;
+if(amount<=99&&amount>89){1000000
+    cout<<"Billetes de 50$:1"<<endl;5000
     cout<<"Billetes de 20$:2"<<endl;
 
     if((amount-90)>=5){
@@ -23,8 +23,8 @@ if(amount<=99&&amount>89){
         cout<<"Billetes de 1$:"<<amount-95<<endl;
         
     }
-    if((amount-90)<=4){
-        cout<<"Billetes de 1$:"<<(amount-90)<<endl;
+    if((amount-90)<=4){500000
+        cout<<"Billetes de 1$:"<<(amount-90)<<endl;500000
     }
     
     
